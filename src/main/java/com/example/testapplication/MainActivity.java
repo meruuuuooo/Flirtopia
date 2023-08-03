@@ -3,7 +3,9 @@ package com.example.testapplication;
 import android.content.ClipData;
 import android.content.ClipboardManager;
 import android.content.Context;
+import android.content.Intent;
 import android.media.MediaPlayer;
+import android.net.Uri;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.ImageView;
@@ -21,6 +23,8 @@ public class MainActivity extends AppCompatActivity {
 
     private ImageView iconImageView;
 
+    private ImageView githubImageView;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -31,6 +35,14 @@ public class MainActivity extends AppCompatActivity {
         mediaPlayer.setLooping(true);
 
         iconImageView = findViewById(R.id.imageView);
+
+        githubImageView = findViewById(R.id.imageView6);
+        githubImageView.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                githubClick();
+            }
+        });
     }
 
     private TextView flirtyTextView;
@@ -324,5 +336,10 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
+        public void githubClick(){
+            String githubProfileUrl = "https://github.com/meruuuuooo";
+            Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(githubProfileUrl));
+            startActivity(intent);
+        }
 
 }
