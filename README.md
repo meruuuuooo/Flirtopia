@@ -17,8 +17,8 @@
 ## Screenshots
 
 <p align="center">
-  <img src="screenshot1.png" alt="Flirtopia Screenshot 1" width="250" style="margin-right: 10px;">
-  <img src="screenshot2.png" alt="Flirtopia Screenshot 2" width="250" style="margin-left: 10px;">
+  <img src=https://github.com/meruuuuooo/FlirtyLove/assets/138646937/c7efa3e7-c1d9-434a-9721-086e647cb868 alt="Flirtopia Screenshot 1" width="250" style="margin-right: 10px;">
+  <img src=https://github.com/meruuuuooo/FlirtyLove/assets/138646937/178ac587-2cda-47bf-b12c-49321b0d4217 alt="Flirtopia Screenshot 2" width="250" style="margin-left: 10px;">
 </p>
 
 ## Usage
