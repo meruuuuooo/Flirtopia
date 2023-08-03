@@ -1,21 +1,25 @@
 <h1 align="center">Flirtopia</h1>
 
 <p align="center">
-  <img src="app_logo.png" alt="Flirtopia Logo" width="200">
+  <img src="https://github.com/meruuuuooo/FlirtyLove/assets/138646937/cf6fedb1-3033-433d-b744-c95b53731c3a" alt="Flirtopia Logo" width="200">
 </p>
 
 <p align="center">A fun and charming Android app to generate flirty messages!</p>
 
 ---
 
-
-![Flirtopia Screenshot](screenshot.png)
-
 ## Features
 
 - Get random flirty messages: Click the "Generate" button to receive a random flirty message from a collection of 100 charming and enchanting sentences.
 - Copy to clipboard: Easily copy the flirty message to your device's clipboard with the "Copy" button and share it via your favorite messaging app.
 - Music accompaniment: Flirtopia features a soothing background melody, "Love Story," that sets the perfect ambiance for sharing your heartfelt messages.
+
+## Screenshots
+
+<p align="center">
+  <img src="screenshot1.png" alt="Flirtopia Screenshot 1" width="250" style="margin-right: 10px;">
+  <img src="screenshot2.png" alt="Flirtopia Screenshot 2" width="250" style="margin-left: 10px;">
+</p>
 
 ## Usage
 
@@ -44,4 +48,3 @@ Follow Taylor Swift:
 ---
 
 **Note**: This app is for entertainment purposes only and does not guarantee any specific outcomes in relationships.
-
