@@ -23,7 +23,7 @@
 
 ## Usage
 
-1. Install the Flirtopia app on your Android device.
+1. Install the Flirtopia app on your Android device. [download link] (- [Flirtopia v1.0.0 APK](https://github.com/meruuuuooo/FlirtyLove/releases/download/v1.0.0/app-release.apk))
 2. Launch the app to access the main screen.
 3. Click the "Generate" button to receive a random flirty message.
 4. Tap the "Copy" button to copy the flirty message to your clipboard.
